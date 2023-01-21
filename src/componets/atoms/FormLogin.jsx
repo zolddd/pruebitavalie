@@ -6,7 +6,7 @@ export default function FormLogin() {
         <img src='' alt='logotipo de la empresa'/>
         <input type="text"/>
         <input type="password"/>
-        <button>Iniciar sesion</button>
+        <button>Iniciar sesibbbon</button>
     </form>
   )
 }

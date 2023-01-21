@@ -45,9 +45,10 @@ function Timer() {
 
 
   return (
-    <div className="App">
-    <h1>I've rendered {count} times!</h1>
-    </div>
+    <>
+    <h1>I've rendered times!</h1>
+    </>
+    
   )
 }
 
